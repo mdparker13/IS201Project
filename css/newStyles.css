@@ -1,0 +1,35 @@
+.header{
+    background-color: rgb(129, 125, 125);
+    color: white;
+    height: 50px;
+    line-height: 50px;
+}
+
+.mainbody{
+    background-color: #f8ecec;
+    color: rgb(107, 105, 105);
+}
+
+
+img{
+    display: block;
+    width: 65%;
+}
+
+.common{
+    text-align: left;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.footer{
+    background-color: grey;
+    color:white;
+    height: 50px;
+    bottom: 5px;
+    position: fixed;
+    left: 5px;
+    right: 5px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-size: 25px;
+}
